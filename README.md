@@ -1,2 +1,0 @@
-# hosting
-the hosting repo
